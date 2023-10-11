@@ -1,6 +1,8 @@
 # Das ist kein Artikel
 
 Wäre das eine Zusammenfassung.
+Ginge sie über mehrer Zeilen
+und wäre cool.
 
 Aber es könnte mal einer werden, sogar mit
 *Formatierungen* dieser __Art__.
