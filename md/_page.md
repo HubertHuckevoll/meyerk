@@ -1,6 +1,6 @@
-# Das ist eine interne Seite!
+# Würde das ein ünterne Seite sein!
 
 Die wird nicht verlinkt!
 
 Und wir erfahren hier Inhalte!
-Inhalte unglaublicher Natur!
+Inhalte unglöublicher Natur!

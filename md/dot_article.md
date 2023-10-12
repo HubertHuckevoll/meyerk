@@ -1,9 +1,8 @@
-# Das ist auch kein Artikel über Dot!
+# Über Dot wäre ein Artikel möglich.
 
 Das hier ist keine Zusammenfassung.
 
 Denn DOT is ja gar nix, nur ein static site generator
-in ~40 Zeilen Bash... well, we're standing on the
-shoulders of **giants**.
+in ~40 Zeilen Bash... Nebel löst sich auf.
 
 Welche Ferien?

@@ -1,7 +1,7 @@
-# Das ist kein Artikel
+# Über Hass möglicherweise
 
 Wäre das eine Zusammenfassung.
-Ginge sie über mehrer Zeilen
+Ginge sie über mehrere Zeilen
 und wäre cool.
 
 Aber es könnte mal einer werden, sogar mit
@@ -10,6 +10,5 @@ Oder einem [Link.](http://www.geos-infobase.de)
 Oder vielleicht sogar mal mit einem Bild!
 ![une image](./images/dalle.png). Oder noch
 einem anderen Bild: ![une imago](./images/marx.jpg)
-
 
 Nicht wahr?
